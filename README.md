@@ -1,4 +1,5 @@
 # TDF_algorithm-classification
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14851443.svg)](https://doi.org/10.5281/zenodo.14851443)
 
 # Introduction
 TDF_algorithm classification is a collaborative application of the SC-R: a supervised classification methodology at https://github.com/SVMendoza/SC-R. 
