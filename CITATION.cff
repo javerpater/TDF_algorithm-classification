@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vergara-Paternina"
+  given-names: "Jose A"
+  orcid: "https://orcid.org/0000-0002-4650-5579"
+- family-names: "Gomez"
+  given-names: "Juan Pablo"
+  orcid: "https://orcid.org/0000-0002-4128-8739"
+- family-names: "Aldana-Domínguez"
+  given-names: "Juanita"
+  orcid: "https://orcid.org/0000-0003-3688-5720"
+- family-names: "Vilchez-Mendoza"
+  given-names: "Sergio"
+  orcid: "https://orcid.org/0000-0002-0326-551X"
+title: "TDF10m-map Tropical Dry forest in northern Colombia"
+version: 2.0.4
+doi: 10.5281/zenodo.14851443
+date-released: 2017-12-18
+url: "https://doi.org/10.5281/zenodo.14851443
